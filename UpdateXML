@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.7.1.0</version>
-  <news> Có thể ứng dụng sẽ không update được nữa vì đang đặt UpdateXML tại Google code, chi tiết xem tại mục Tin tức.. Nếu update sẽ được thông báo trên Fb Page..
+  <version>1.7.0.0</version>
+  <news>Hoàn thành đổi server, hiện tại có thể tiếp tục nhận Update ngay trên ứng dụng (nếu có)
   </news>
   <url>http://www.mediafire.com/download/cp7n1fcioeikfrg/GardenTimer.exe</url>
   <newsver>
@@ -18,7 +18,6 @@ v1.7.0.0 - Dung lượng: 644 kB
   </newsver>
   
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|Shop mua sắm giá rẻ: AUBOUTIQUE|http://au.vtcgame.vn/auboutique|Tải Au|http://vtcgame.vn/download-games/2|Hướng dẫn sử dụng chương trình|https://www.facebook.com/bugvuonAudition/posts/892469930834019|
-  Chúc mừng SN Audition tròn 9 tuổi..|http://au.vtcgame.vn|
-  Có thể ứng dụng sẽ không update được nữa vì đang đặt UpdateXML tại Google code|https://code.google.com/p/support/wiki/ReadOnlyTransition
+  Chúc mừng SN Audition tròn 9 tuổi..|http://au.vtcgame.vn
   </tintuc
 </GardenTimer>
