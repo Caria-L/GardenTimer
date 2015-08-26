@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.7.0.0</version>
+  <version>1.7.1.0</version>
   <news> Có thể ứng dụng sẽ không update được nữa vì đang đặt UpdateXML tại Google code, chi tiết xem tại mục Tin tức.. Nếu update sẽ được thông báo trên Fb Page..
   </news>
   <url>http://www.mediafire.com/download/cp7n1fcioeikfrg/GardenTimer.exe</url>
   <newsver>
-v1.7.1.0 - Dung lượng: 644 kB
+v1.7.0.0 - Dung lượng: 644 kB
 
 - Hiển thị các thay đổi phiên bản vào Thông tin chương trình
 - Thay đổi giao diện Hướng dẫn, tích hợp thêm mục Góp ý
