@@ -10,6 +10,8 @@ v1.8.1.0 - Dung lượng: 657 kB
 - Thêm nút chuyển nhanh các tin tức khác
 - Thêm chi tiết cho chức năng hẹn giờ
 - Thêm chi tiết cho khay hệ thống khi nhấn nút "Ẩn"
+- Tự chạy bằng quyền Administrator 
+(không cần kích chuột phải Run as administrator nữa)
 - Chống decode chương trình
 - Một vài thay đổi nhỏ khác
   </newsver>
