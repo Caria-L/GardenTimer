@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
   <version>1.8.1.0</version>
-  <news>Hiện tại ad phát hiện ra một vấn đề nhỏ, vì để tự Run as administrator, nên ở một số máy toàn bộ link đều không bấm được (VD link ở mục tin tức). Các bạn tải bản mới về bấm thử xem mục tin tức có hiện ra trình duyệt hay không, rồi comment xuống dưới đây nhé.
-Nếu đúng là bấm nhưng không hiện lên trình duyệt để đọc tin tức, ad sẽ bỏ tự Run as administrator đi! 
-Vì lần này dùng cả chương trình thứ 3 chống decode, nên khi chạy ở một số máy sẽ không tránh khỏi có thể có lỗi, các bạn khi có lỗi hãy comment xuống dưới đây giúp ad. Thực sự nếu các b k quan tâm chương trình, thì cũng mong là báo lỗi giúp ad nếu có. điều này giúp ích phát triển chương trình rất nhiều. Cảm ơn các bạn đã đọc và tải, và dùng trong suốt thời gian qua..
+  <news>Hiện tại mình phát hiện ra một vấn đề nhỏ, vì để tự Run as administrator, nên ở một số máy toàn bộ link đều không bấm được (VD link ở mục tin tức).
+Các bạn tải bản mới về bấm thử xem mục tin tức có hiện ra trình duyệt hay không, rồi vào page comment xuống dưới bài đăng nhé.
+Nếu đúng là bấm nhưng không hiện lên trình duyệt để đọc tin tức, mình sẽ bỏ tự Run as administrator đi! 
+Vì lần này dùng cả chương trình thứ 3 chống decode, nên khi chạy ở một số máy sẽ không tránh khỏi có thể có lỗi, 
+các bạn khi có lỗi hãy vào page comment xuống dưới bài đăng giúp mình. 
+Điều này sẽ giúp ích phát triển chương trình rất nhiều. Cảm ơn các bạn đã đọc và tải, và dùng trong suốt thời gian qua..
 
 Ngoài ra, page tổ chức event mùa cưới, chi tiết đọc tại mục Tin tức "PAGE EVENT: GÁN GHÉP MÙA CƯỚI, hoặc tại page"
   </news>
