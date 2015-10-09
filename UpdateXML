@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.8.2.1</version>
+  <version>1.8.2.0</version>
   <news>Hiện tại mình phát hiện ra một vấn đề nhỏ, vì để tự Run as administrator, nên ở một số máy toàn bộ link đều không bấm được (VD link ở mục tin tức).
 Các bạn tải bản mới về bấm thử xem mục tin tức có hiện ra trình duyệt hay không, rồi vào page comment xuống dưới bài đăng nhé.
 Nếu đúng là bấm nhưng không hiện lên trình duyệt để đọc tin tức, mình sẽ bỏ tự Run as administrator đi! 
