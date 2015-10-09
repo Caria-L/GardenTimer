@@ -10,7 +10,7 @@ các bạn khi có lỗi hãy vào page comment xuống dưới bài đăng giú
 
 Ngoài ra, page tổ chức event mùa cưới, chi tiết đọc tại mục Tin tức "PAGE EVENT: GÁN GHÉP MÙA CƯỚI, hoặc tại page"
   </news>
-  <url>http://download1491.mediafire.com/f10rhdhqpfvg/cp7n1fcioeikfrg/GardenTimer.exe</url>
+  <url>http://www.mediafire.com/f10rhdhqpfvg/cp7n1fcioeikfrg/GardenTimer.exe</url>
   <newsver>
 v1.8.2.0 - Dung lượng: 655 kB
 - AutoUpdater (kể từ phiên bản này về sau)
@@ -39,4 +39,6 @@ v1.8.2.0 - Dung lượng: 655 kB
   http://download941.mediafire.com/sk0mdlli5hcg/ngiqolgih4nz6q2/k1008.abm|k1008.abm|
   http://download1339.mediafire.com/mi3052ngpesg/cd5cwevqu5jvmhc/k1009.abm|k1009.abm
   </downloadfile>
+  <versiontest>1.8.2.0</version>
+  <urltest>http://download1491.mediafire.com/f10rhdhqpfvg/cp7n1fcioeikfrg/GardenTimer.exe</url>
 </GardenTimer>
