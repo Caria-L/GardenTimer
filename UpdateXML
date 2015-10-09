@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
   <version>1.8.2.0</version>
-  <news>Hiện tại mình phát hiện ra một vấn đề nhỏ, vì để tự Run as administrator, nên ở một số máy toàn bộ link đều không bấm được (VD link ở mục tin tức).
-Các bạn tải bản mới về bấm thử xem mục tin tức có hiện ra trình duyệt hay không, rồi vào page comment xuống dưới bài đăng nhé.
-Nếu đúng là bấm nhưng không hiện lên trình duyệt để đọc tin tức, mình sẽ bỏ tự Run as administrator đi! 
-Vì lần này dùng cả chương trình thứ 3 chống decode, nên khi chạy ở một số máy sẽ không tránh khỏi có thể có lỗi, 
-các bạn khi có lỗi hãy vào page comment xuống dưới bài đăng giúp mình. 
-Điều này sẽ giúp ích phát triển chương trình rất nhiều. Cảm ơn các bạn đã đọc và tải, và dùng trong suốt thời gian qua..
-
-Ngoài ra, page tổ chức event mùa cưới, chi tiết đọc tại mục Tin tức "PAGE EVENT: GÁN GHÉP MÙA CƯỚI, hoặc tại page"
+  <news>Page đang tổ chức event mùa cưới, chi tiết đọc tại mục Tin tức "PAGE EVENT: GÁN GHÉP MÙA CƯỚI, hoặc tại page"
   </news>
   <url>http://www.mediafire.com/f10rhdhqpfvg/cp7n1fcioeikfrg/GardenTimer.exe</url>
   <newsver>
@@ -31,6 +24,9 @@ v1.8.2.0 - Dung lượng: 655 kB
   Newbie đến nhà - tặng quà vĩnh viễn!!|http://au.vtcgame.vn/su-kien/newbie-den-nha---tang-qua-vinh-vien---14891.html|
   Thông báo bảo trì nâng cấp hệ thống ngày 09/10|http://au.vtcgame.vn/su-kien/thong-bao-bao-tri-nang-cap-he-thong-ngay-09-10-14893.html|
   Mua sắm xả láng với "Tháng 10 Hoàng Đạo"|http://au.vtcgame.vn/su-kien/mua-sam-xa-lang-voi--thang-10-hoang-dao--14892.html|
+  Choáng với ảnh CNKĐ táo bạo chỉ có ở In'C Design|http://au.vtcgame.vn/cong-dong/choang-voi-anh-cnkd-tao-bao-chi-co-o-in-c-design-14895.html|
+  Cơ hội có một không hai: Couple Shop vĩnh viễn??|http://au.vtcgame.vn/su-kien/co-hoi-co-mot-khong-hai--couple-shop-vinh-vien---14896.html|
+  Điểm danh các bài Rap Việt tên tuổi trong AU|http://au.vtcgame.vn/cong-dong/diem-danh-cac-bai-rap-viet-ten-tuoi-trong-au-14897.html|
   Hướng dẫn sử dụng chương trình|https://www.facebook.com/bugvuonAudition/posts/892469930834019</tintuc>
   <downloadfile>
   http://download1484.mediafire.com/piq0c5i1pafg/b4qjpf87dvkis48/k0200.abm|k0200.abm|
