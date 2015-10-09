@@ -36,5 +36,6 @@ v1.8.2.0 - Dung lượng: 655 kB
   http://download1339.mediafire.com/mi3052ngpesg/cd5cwevqu5jvmhc/k1009.abm|k1009.abm
   </downloadfile>
   <versiontest>1.8.2.1</versiontest>
-  <urltest>https://drive.google.com/uc?export=download&ampid=0ByXok9qfCFvnYjlVQVhXZnBwRzQ</urltest>
+  <urltest>https://drive.google.com/uc?export=download₰ampid=0ByXok9qfCFvnYjlVQVhXZnBwRzQ</urltest>
+  <!- Thay thế ký tự   &   bằng ký tự   ₰   trong các dòng NODE ->
 </GardenTimer>
