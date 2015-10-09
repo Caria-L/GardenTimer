@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.8.1.0</version>
+  <version>1.8.2.0</version>
   <news>Hiện tại mình phát hiện ra một vấn đề nhỏ, vì để tự Run as administrator, nên ở một số máy toàn bộ link đều không bấm được (VD link ở mục tin tức).
 Các bạn tải bản mới về bấm thử xem mục tin tức có hiện ra trình duyệt hay không, rồi vào page comment xuống dưới bài đăng nhé.
 Nếu đúng là bấm nhưng không hiện lên trình duyệt để đọc tin tức, mình sẽ bỏ tự Run as administrator đi! 
@@ -10,14 +10,13 @@ các bạn khi có lỗi hãy vào page comment xuống dưới bài đăng giú
 
 Ngoài ra, page tổ chức event mùa cưới, chi tiết đọc tại mục Tin tức "PAGE EVENT: GÁN GHÉP MÙA CƯỚI, hoặc tại page"
   </news>
-  <url>http://download1082.mediafire.com/kr2rfurx0rlg/cp7n1fcioeikfrg/GardenTimer.exe</url>
+  <url>http://download1491.mediafire.com/f10rhdhqpfvg/cp7n1fcioeikfrg/GardenTimer.exe</url>
   <newsver>
-v1.8.1.0 - Dung lượng: 657 kB
+v1.8.2.0 - Dung lượng: 655 kB
+- AutoUpdater (kể từ phiên bản này về sau)
 - Thêm nút chuyển nhanh các tin tức khác
 - Thêm chi tiết cho chức năng hẹn giờ
-- Thêm chi tiết cho khay hệ thống khi nhấn nút "Ẩn"
-- Tự chạy bằng quyền Administrator 
-(không cần kích chuột phải Run as administrator nữa)
+- Hủy bỏ tự chạy bằng quyền Administrator 
 - Chống decode chương trình
 - Một vài thay đổi nhỏ khác
   </newsver>
