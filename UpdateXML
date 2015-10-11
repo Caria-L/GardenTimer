@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
   <version>1.8.2.2</version>
-  <news>Do server hoạt động chưa ổn định, có thể update bị lỗi, nếu update bị lỗi, các bạn tải lại ở nút Sử dụng ứng dụng trên đầu Page nhé!
+  <news>
   </news>
   <url>https://drive.google.com/uc?export=download₰id=0ByXok9qfCFvnYjlVQVhXZnBwRzQ</url>
   <urlUpdater>https://drive.google.com/uc?export=download₰id=0ByXok9qfCFvnZUdMTTJidEw1djA</urlUpdater>
-  <urlSPw></urlSPw>
+  <urlSPw>http://download2206.mediafire.com/0ee55eiwmtog/2ok75n0nnno6qwa/GardenSPw.exe</urlSPw>
   <newsver>
 v1.8.2.2 - Dung lượng: 655 kB
 - Chuyển đổi server (server mới hình như hơi bị chậm)
