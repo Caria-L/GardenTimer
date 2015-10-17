@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.8.2.2</version>
+  <version>1.8.2.3</version>
   <news>
   </news>
   <url>https://drive.google.com/uc?export=download₰id=0ByXok9qfCFvnYjlVQVhXZnBwRzQ</url>
   <urlUpdater>https://drive.google.com/uc?export=download₰id=0ByXok9qfCFvnZUdMTTJidEw1djA</urlUpdater>
   <urlSPw>http://download1502.mediafire.com/yiyseqcln6eg/2ok75n0nnno6qwa/GardenSPw.exe</urlSPw>
   <newsver>
-v1.8.2.2 - Dung lượng: 655 kB
+v1.8.2.3 - Dung lượng: 670 kB
+- Thêm chức năng tắt âm khi Trồng - Tưới - Quét
 - Chuyển đổi server
 - AutoUpdater (kể từ v.1.8.2.2)
 - Thêm nút chuyển nhanh các tin tức khác
