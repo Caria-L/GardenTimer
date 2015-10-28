@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.8.3.1</version>
+  <version>1.8.4.0</version>
   <news>
   </news>
   <url>https://drive.google.com/uc?export=download₰id=0ByXok9qfCFvnYjlVQVhXZnBwRzQ</url>
   <urlUpdater>https://drive.google.com/uc?export=download₰id=0ByXok9qfCFvnZUdMTTJidEw1djA</urlUpdater>
   <urlSPw>http://download2206.mediafire.com/6d9hj9zw5avg/2ok75n0nnno6qwa/GardenSPw.exe</urlSPw>
   <newsver>
-[Last] v1.8.3.1 - Dung lượng: 686 kB
+[Last] v1.8.4.0 - Dung lượng: 686 kB
 - Tự thêm 1 đường tắt tới màn hình nền
 - Chuyển nơi lưu file nhật ký
 - Thêm giao diện mở nhật ký
 - Nâng cấp mục Số thứ tự Tin tức
+- Sửa giao diện Khung giờ
+- Đồng bộ với các tool Auto chăm vườn khi treo qua đêm
 - Một vài thay đổi nhỏ khác
-- Có thể sẽ là Last version, tự hỏi đau đầu đổi được gì?
+-> Vì đam mê, Last version có lẽ là một điều xa xỉ..
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|Shop mua sắm giá rẻ: AUBOUTIQUE|http://au.vtcgame.vn/auboutique|Tải Au|http://vtcgame.vn/download-games/2|
   PAGE EVENT: GÁN GHÉP MÙA CƯỚI|https://www.facebook.com/bugvuonAudition/posts/920661771348168|
@@ -28,6 +30,10 @@
   Trao gấu yêu - xẩu Icon VIP: Kết quả! Kết quả đê!|http://au.vtcgame.vn/su-kien/trao-gau-yeu---xau-icon-vip--ket-qua--ket-qua-de--14969.html|
   Hướng dẫn gửi yêu cầu: THAY ĐỔI THÔNG TIN TÀI KHOẢN|http://au.vtcgame.vn/tieu-diem/huong-dan-gui-yeu-cau--thay-doi-thong-tin-tai-khoan-14965.html|
   10 điều về GM có thể bạn chưa biết?|http://au.vtcgame.vn/su-kien/[new]-10-dieu-ve-gm-co-the-ban-chua-biet--14964.html|
+  Lâm Đồng, Cần Thơ nhuốm màu Halloween|http://au.vtcgame.vn/cong-dong/lam-dong--can-tho-nhuom-mau-halloween-14970.html|
+  (Icon mới) Đối thủ của Nốt Nhạc Thiên Thần..|http://au.vtcgame.vn/su-kien/tung-chuong-icon-moi--doi-thu-cua-not-nhac-thien-than--14972.html|
+  Sắm đồ Halloween thả phanh cùng Thẻ Giảm Giá thần kỳ|http://au.vtcgame.vn/su-kien/sam-do-halloween-tha-phanh-cung-the-giam-gia-than-ky-14973.html|
+  Đăng ký: Xài thẻ ngay - Nhận ngay quà hot|http://au.vtcgame.vn/su-kien/dang-ky--xai-the-ngay---nhan-ngay-qua-hot-14974.html|
   Hướng dẫn sử dụng chương trình|https://www.facebook.com/bugvuonAudition/posts/892469930834019</tintuc>
   <downloadfile>
   http://download1484.mediafire.com/piq0c5i1pafg/b4qjpf87dvkis48/k0200.abm|k0200.abm|
