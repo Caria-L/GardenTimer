@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
   <version>1.8.6.1</version>
-  <news>
+  <news>Tin tức được cập nhật liên tục và kịp thời các sự kiện đang diễn ra
+tại trang chủ Au cũng như tại các Fanpage Fb các tỉnh thành..
+Chi tiết vui lòng ngó mục Tin tức trên đầu ứng dụng. :)
   </news>
   <url>https://drive.google.com/uc?export=download₰id=0ByXok9qfCFvnYjlVQVhXZnBwRzQ</url>
   <urlUpdater>https://drive.google.com/uc?export=download₰id=0ByXok9qfCFvnZUdMTTJidEw1djA</urlUpdater>
@@ -15,19 +17,11 @@ v1.8.6.1 - Dung lượng: 705 kB
 - Một vài thay đổi nhỏ khác
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|Shop mua sắm giá rẻ: AUBOUTIQUE|http://au.vtcgame.vn/auboutique|
-  (quà ingame đôi) Mùa ta đã yêu - Tình trong nhẫn cưới|http://au.vtcgame.vn/su-kien/[hot]-mua-ta-da-yeu---tinh-trong-nhan-cuoi-14935.html|
   (quà Vcoin) Thi nhảy Thú Cưng - Đỉnh cao Chó Mèo|http://au.vtcgame.vn/cong-dong/thi-nhay-thu-cung---dinh-cao-cho-meo-15024.html|
-  BCN 2.23 TAU Là Cung Bọ Cạp (dự kiến 18/11)|http://au.vtcgame.vn/update/sot-xinh-xich-voi-bcn-2-23---tau-la-cung-bo-cap-15035.html|
-  BCN 2.23 Nhạc mới|http://au.vtcgame.vn/update/[update]-hay-mat-hon-list-nhac-thang-11-15036.html|
-  BCN 2.23 Trang phục mới|http://au.vtcgame.vn/update/[update]-dang-cap-thoi-trang-bo-cap-15038.html|
-  BCN 2.23 Giao diện mới|http://au.vtcgame.vn/update/thanh-pho-vu-hoi-ho-bien-thanh-xu-so-bo-cap-15044.html|
-  BCN 2.23 Skill mới|http://au.vtcgame.vn/update/[update]-quay-khong-ngung-nghi-cung-20-skills-moi-15045.html|
-  (quà Nhẫn dưa hấu) Dư vị mùa yêu - Thiên đường Nhẫn cưới|http://au.vtcgame.vn/su-kien/du-vi-mua-yeu---thien-duong-nhan-cuoi-15043.html|
   (quà ingame + icon I love Au) Quà tặng cho ngày hội ngộ|http://au.vtcgame.vn/su-kien/icon-i-love-au-90-ngay---qua-tang-cho-ngay-hoi-ngo-15054.html|
   (quà Vcoin) Sự kiện Make up thành phố Audition|http://au.vtcgame.vn/su-kien/[new]-make-up-thanh-pho-audition-theo-y-ban-15057.html|
-  (quà ingame + icon tai nghe) Tín đồ mua sắm (2015 vc, lại hút máu)|http://au.vtcgame.vn/su-kien/tin-do-mua-sam---ngo-ngang-nhan-icon-moi-15058.html|
-  Trao quà tặng Lễ hội Club Dance 2|http://au.vtcgame.vn/su-kien/[hot]-thong-bao-trao-qua-tang-le-hoi-club-dance-2-15060.html|
-  Ứng dụng mới: CoupleHeartPoint|https://www.facebook.com/bugvuonAudition/photos/a.767185870029093.1073741826.767181326696214/932958230118522|
+  Trao quà sự kiện Mùa ta đã yêu - Tình trong nhẫn cưới (có thay đổi về quà)|http://au.vtcgame.vn/su-kien/mua-ta-da-yeu--bat-ngo-trao-qua---15065.html|
+  Ứng dụng tra cứu thông tin Tim, Exp, Nhiệm vụ: CoupleHeartPoint|https://www.facebook.com/bugvuonAudition/photos/a.767185870029093.1073741826.767181326696214/932958230118522|
   Tải Au|http://vtcgame.vn/download-games/2</tintuc>
   
   <!- Thay thế ký tự   &   bằng ký tự   ₰   trong các dòng NODE ->
