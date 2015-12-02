@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.8.6.1</version>
+  <version>1.9.0.0</version>
   <news>
   </news>
   <url>https://drive.google.com/uc?export=download₰id=0ByXok9qfCFvnYjlVQVhXZnBwRzQ</url>
@@ -9,11 +9,10 @@
   <urlTS>https://drive.google.com/uc?export=download₰id=0ByXok9qfCFvnM1NiNEdZZ25lQ2c</urlTS>
   <serial>5CG3200KJH</serial>
   <newsver>
-v1.8.6.1 - Dung lượng: 705 kB
-- Thay đổi giao diện mục cài đặt
-- Loại bỏ lời chào
-- Di chuyển mục đồng bộ tool auto sang trạng thái tắt/bật hiển thị
-- Thêm tính năng Xem trước thời gian biểu của Auto (di chuột vào chữ Auto)
+v1.9.0.0 - Dung lượng: 708 kB
+- Treo vườn không tốn thời gian (Ctrl T)
+- Treo nhiều khu vườn trên cùng 1 máy (hiện tại max 3)
+--> Các chức năng này giới hạn số lượng, yêu cầu đăng ký
 - Một vài thay đổi nhỏ khác
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|Shop mua sắm giá rẻ: AUBOUTIQUE|http://au.vtcgame.vn/auboutique|
