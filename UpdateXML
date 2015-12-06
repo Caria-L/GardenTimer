@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.0.2</version>
+  <version>1.9.1.1</version>
   <news>
   </news>
   <url>https://goo.gl/qCbvAm</url>
@@ -9,10 +9,10 @@
   <urlTS>https://goo.gl/6250QH</urlTS>
   <serial>5CG3200KJH|40T43S1</serial>
   <newsver>
-v1.9.0.2 - Dung lượng: 711 kB
-- Treo vườn không tốn thời gian (Ctrl T)
-- Treo nhiều khu vườn trên cùng 1 máy (hiện tại max 3)
---> Yêu cầu đăng ký
+v1.9.1.1 - Dung lượng: 760 kB
+- Nâng cấp tối đa 6 khu vườn
+- Treo vườn không tốn thời gian (Ctrl T) --> Yêu cầu đăng ký
+- Treo nhiều khu vườn trên cùng 1 máy --> Yêu cầu đăng ký
 - Một vài thay đổi nhỏ khác
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|Shop mua sắm giá rẻ: AUBOUTIQUE|http://au.vtcgame.vn/auboutique|
