@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.1.1</version>
+  <version>1.9.1.2</version>
   <news>
   </news>
   <url>https://goo.gl/qCbvAm</url>
@@ -9,9 +9,8 @@
   <urlTS>https://goo.gl/6250QH</urlTS>
   <serial>5CG3200KJH|40T43S1</serial>
   <newsver>
-v1.9.1.1 - Dung lượng: 760 kB
+v1.9.1.2 - Dung lượng: 760 kB
 - Nâng cấp tối đa 6 khu vườn
-- Hạn chế tắt ứng dụng đột ngột
 - Sửa lại xem trước khi di chuột vào biểu tượng dưới thanh hệ thống
 - Treo vườn không tốn thời gian (Ctrl T) --> Yêu cầu đăng ký
 - Treo nhiều khu vườn trên cùng 1 máy --> Yêu cầu đăng ký
