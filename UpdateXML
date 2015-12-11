@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
   <version>1.9.1.5</version>
-  <news>Hiện tại đang bị lag vườn, các khung giờ sẽ về hết Khung giờ 2. 
-  Khi nào k hiện thông báo này nữa tức là VTC đã fix xong.
-  VÀ CÓ THỂ, CÓ THỂ CÁC BẠN SẼ KHÔNG CÒN KHÁI NIỆM BUG VƯỜN NỮA..
+  <news>VTC đang ra tay, CÓ THỂ CÁC BẠN SẼ KHÔNG CÒN KHÁI NIỆM BUG VƯỜN NỮA..
   </news>
   <url>https://goo.gl/qCbvAm</url>
   <urlUpdater>https://goo.gl/RSGhZ7</urlUpdater>
