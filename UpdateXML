@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.1.5</version>
+  <version>1.9.1.6</version>
   <news>VTC đang ra tay, CÓ THỂ CÁC BẠN SẼ KHÔNG CÒN KHÁI NIỆM BUG VƯỜN NỮA..
   </news>
   <url>https://goo.gl/qCbvAm</url>
@@ -9,7 +9,7 @@
   <urlTS>https://goo.gl/6250QH</urlTS>
   <serial>5CG3200KJH|40T43S1</serial>
   <newsver>
-v1.9.1.5 - Dung lượng: 772 kB
+v1.9.1.6 - Dung lượng: 773 kB
 - Nâng cấp tối đa 6 khu vườn
 - Sửa lại xem trước khi di chuột vào biểu tượng dưới thanh hệ thống
 - Treo vườn không tốn thời gian (Ctrl T) --> Yêu cầu đăng ký
