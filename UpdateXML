@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.1.7</version>
+  <version>1.9.1.8</version>
   <news>VTC đang ra tay, CÓ THỂ CÁC BẠN SẼ KHÔNG CÒN KHÁI NIỆM BUG VƯỜN NỮA..
-  Hiện tại, vườn vẫn đang lag, các bạn có thể chọn Khung giờ 2 hoặc Khung giờ 3..
+Hiện tại, vườn vẫn đang lag, các bạn có thể chọn Khung giờ 2 hoặc Khung giờ 3..
   </news>
   <url>https://goo.gl/qCbvAm</url>
   <urlUpdater>https://goo.gl/RSGhZ7</urlUpdater>
@@ -10,9 +10,10 @@
   <urlTS>https://goo.gl/6250QH</urlTS>
   <serial>5CG3200KJH|40T43S1|2491152103819</serial>
   <newsver>
-v1.9.1.7 - Dung lượng: 773 kB
+v1.9.1.8 - Dung lượng: 774 kB
 - Nâng cấp tối đa 6 khu vườn
 - Sửa lại xem trước khi di chuột vào biểu tượng dưới thanh hệ thống
+- Hiện mật khẩu khi bấm đúp vào nick để xem lại
 - Treo vườn không tốn thời gian (Ctrl T) --> Yêu cầu đăng ký
 - Treo nhiều khu vườn trên cùng 1 máy --> Yêu cầu đăng ký
 - Một vài thay đổi nhỏ khác
@@ -22,6 +23,7 @@ v1.9.1.7 - Dung lượng: 773 kB
   (8 Gcode góp ý) Tự chọn 100 món đồ giảm giá (10/12-17/12)|http://au.vtcgame.vn/su-kien/tu-chon-100-mon-do-giam-gia-hot-nhat-15106.html|
   Gửi lời ước giáng sinh|http://au.vtcgame.vn/su-kien/[hot]-gui-loi-uoc-giang-sinh---rinh-qua-that-bat-ngo-15113.html|
   (item + icon Cây kẹo Xmas) Vũ điệu đêm đông (ingame 15/12-20/12)|http://au.vtcgame.vn/su-kien/[hot]-vu-dieu-dem-dong---toa-sang-mua-le-hoi--15120.html|
+  (item + 3 icon) Trở thành ngôi sao Shopping (14/12 - 20/12)|http://au.vtcgame.vn/su-kien/tro-thanh-ngoi-sao-shopping-rinh-ngay-not-nhac-thien-than-15121.html|
   Nhận chăm tim KVTY (NEW)|https://www.facebook.com/groups/congdongaudition/permalink/1064975503574628|
   Ứng dụng tra cứu thông tin Tim, Exp, Nhiệm vụ: CoupleHeartPoint|https://www.facebook.com/bugvuonAudition/photos/a.767185870029093.1073741826.767181326696214/932958230118522|
   Tải Au|http://vtcgame.vn/download-games/2</tintuc>
