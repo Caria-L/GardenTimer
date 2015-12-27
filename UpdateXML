@@ -18,7 +18,8 @@ v1.9.1.8 - Dung lượng: 774 kB
 - Treo nhiều khu vườn trên cùng 1 máy --> Yêu cầu đăng ký
 - Một vài thay đổi nhỏ khác
   </newsver>
-  <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshtique|Shop mua sắm giá rẻ: Auboutique |http://au.vtcgame.vn/auboutique|
+  <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshtique|
+  Shop mua sắm giá rẻ: Auboutique |http://au.vtcgame.vn/auboutique|
   [HOT] Cầu Được Ước Thấy đợt 2: Quà KHỦNG hơn nữa!!|http://au.vtcgame.vn/su-kien/[hot]-cau-duoc-uoc-thay-dot-2--qua-khung-hon-nua---15149.html|
   Tháng 12 - Ngại gì mà không mơ??|http://au.vtcgame.vn/update/thang-12---ngai-gi-ma-khong-mo---15150.html|
   Thử thách trí tò mò cùng BCN 2.25 - Kẻ Đuổi Bắt Giấc Mơ|http://au.vtcgame.vn/update/thu-thach-tri-to-mo-cung-bcn-2-25---ke-duoi-bat-giac-mo-15152.html|
@@ -56,5 +57,6 @@ v1.9.1.8 - Dung lượng: 774 kB
   Ứng dụng tra cứu thông tin Tim, Exp, Nhiệm vụ: CoupleHeartPoint|https://www.facebook.com/bugvuonAudition/photos/a.767185870029093.1073741826.767181326696214/932958230118522|
   Tải Au|http://vtcgame.vn/download-games/2</tintuc>
   
-  <!- Thay thế ký tự   &   bằng ký tự   ₰   trong các dòng NODE ->
 </GardenTimer>
+
+<!- Thay thế ký tự   &   bằng ký tự   ₰   trong các dòng NODE ->
