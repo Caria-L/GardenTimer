@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.1.8</version>
+  <version>1.9.2.0</version>
   <news>--- Chính xác là VTC đã fix xong lỗi bug mua đồ tại khu vườn ---
 Hiện tại, vườn vẫn đang lag, các bạn có thể chọn Khung giờ 2 hoặc Khung giờ 3..
   </news>
@@ -10,7 +10,7 @@ Hiện tại, vườn vẫn đang lag, các bạn có thể chọn Khung giờ 2
   <urlTS>https://goo.gl/6250QH</urlTS>
   <serial>5CG3200KJH|40T43S1|2491152103819</serial>
   <newsver>
-v1.9.1.8 - Dung lượng: 774 kB
+v1.9.2.0 - Dung lượng: 875 kB
 - Nâng cấp tối đa 6 khu vườn
 - Sửa lại xem trước khi di chuột vào biểu tượng dưới thanh hệ thống
 - Hiện mật khẩu khi bấm đúp vào nick để xem lại
