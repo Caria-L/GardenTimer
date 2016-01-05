@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.2.0</version>
-  <news>--- Chính xác là VTC đã fix xong lỗi bug mua đồ tại khu vườn ---
-Hiện tại, vườn vẫn đang lag, các bạn có thể chọn Khung giờ 2 hoặc Khung giờ 3..
+  <version>1.9.3.0</version>
+  <news>Hiện tại, thi thoảng vườn vẫn lag khung giờ..
+Nếu sau nhiều lần ~65ph không có tưới, các bạn có thể gửi hotro.vtcgame.vn
   </news>
   <url>https://goo.gl/qCbvAm</url>
   <urlUpdater>https://goo.gl/RSGhZ7</urlUpdater>
@@ -10,7 +10,7 @@ Hiện tại, vườn vẫn đang lag, các bạn có thể chọn Khung giờ 2
   <urlTS>https://goo.gl/6250QH</urlTS>
   <serial>5CG3200KJH|40T43S1|2491152103819</serial>
   <newsver>
-v1.9.2.0 - Dung lượng: 875 kB
+v1.9.3.0 - Dung lượng: 875 kB
 - Nâng cấp tối đa 6 khu vườn
 - Sửa lại xem trước khi di chuột vào biểu tượng dưới thanh hệ thống
 - Hiện mật khẩu khi bấm đúp vào nick để xem lại
@@ -20,45 +20,10 @@ v1.9.2.0 - Dung lượng: 875 kB
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshtique|
   Shop mua sắm giá rẻ: Auboutique |http://au.vtcgame.vn/auboutique|
-  [HOT] Cầu Được Ước Thấy đợt 2: Quà KHỦNG hơn nữa!!|http://au.vtcgame.vn/su-kien/[hot]-cau-duoc-uoc-thay-dot-2--qua-khung-hon-nua---15149.html|
-  Tháng 12 - Ngại gì mà không mơ??|http://au.vtcgame.vn/update/thang-12---ngai-gi-ma-khong-mo---15150.html|
-  Thử thách trí tò mò cùng BCN 2.25 - Kẻ Đuổi Bắt Giấc Mơ|http://au.vtcgame.vn/update/thu-thach-tri-to-mo-cung-bcn-2-25---ke-duoi-bat-giac-mo-15152.html|
-  [UPDATE] Thời trang Tháng 12: Đồ đôi không thiếu!|http://au.vtcgame.vn/update/[update]-thoi-trang-thang-12--do-doi-khong-thieu--15151.html|
-  [UPDATE] Giai Điệu Giáng Sinh - Đỉnh cao âm nhạc Tháng...|http://au.vtcgame.vn/update/[update]-giai-dieu-giang-sinh---dinh-cao-am-nhac-thang-12-15153.html|
-  Nha Trang - Hoành tráng ra mắt Club AU chính thức|http://au.vtcgame.vn/cong-dong/nha-trang---hoanh-trang-ra-mat-club-au-chinh-thuc-15154.html|
-  [HOT] GALA SALE 2015 - Thiên Đường Mua Sắm|http://au.vtcgame.vn/su-kien/[hot]-gala-sale-2015---thien-duong-mua-sam-15155.html|
-  Thành phố vũ hội khoe áo mới trong mùa Giáng Sinh|http://au.vtcgame.vn/update/thanh-pho-vu-hoi-khoe-ao-moi-trong-mua-giang-sinh-15156.html|
-  [NEW] Hướng dẫn sự kiện: Mảnh Ghép Giáng Sinh 2015|http://au.vtcgame.vn/su-kien/[new]-huong-dan-su-kien--manh-ghep-giang-sinh-2015-15157.html|
-  [UPDATE] Bảo bối mới: Icon Premium Mark|http://au.vtcgame.vn/update/[update]-bao-boi-moi--icon-premium-mark-15158.html|
-  Lóa mắt với 5 Avatars thiết kế tháng 12|http://au.vtcgame.vn/update/loa-mat-voi-5-avatars-thiet-ke-thang-12-15159.html|
-  DOWNLOAD BCN 2.25 - KẺ ĐUỔI BẮT GIẤC MƠ|http://au.vtcgame.vn/update/download-bcn-2-25---ke-duoi-bat-giac-mo-15160.html|
-  [HOT] Tháng Noel: Người Việt dùng hàng Việt|http://au.vtcgame.vn/su-kien/[hot]-thang-noel--nguoi-viet-dung-hang-viet-15161.html|
-  Trang Sức HOT bất ngờ xuất hiện GALA SALE 23/12|http://au.vtcgame.vn/su-kien/trang-suc-hot-bat-ngo-xuat-hien-gala-sale-23-12-15162.html|
-  Tái hợp Mix ₰ Match: Phối đồ "Êu" cùng Gala Sale|http://au.vtcgame.vn/su-kien/tai-hop-mix---match--phoi-do--eu--cung-gala-sale-15163.html|
-  Vũ công AU thi nhau xúng xính Giỏ Quà Ẩn vĩnh viễn|http://au.vtcgame.vn/cong-dong/vu-cong-au-thi-nhau-xung-xinh-gio-qua-an-vinh-vien-15164.html|
-  GALA SALE: Tặng Icon VIP Gold và Icon Kim Cương cực chất!|http://au.vtcgame.vn/su-kien/gala-sale--tang-icon-vip-gold-va-icon-kim-cuong-cuc-chat--15165.html|
-  GALA SALE Noel: Full Đồ Giáng Sinh lên kệ Webshop??|http://au.vtcgame.vn/su-kien/gala-sale-noel--full-do-giang-sinh-len-ke-webshop---15166.html|
-  Xúc động trước Clip Giáng Sinh là để yêu thương|http://au.vtcgame.vn/su-kien/xuc-dong-truoc-clip-giang-sinh-la-de-yeu-thuong-15167.html|
-  [HOT] Siêu giảm giá: Tóc Tuần Lộc 2015 Made In VN|http://au.vtcgame.vn/su-kien/[hot]-sieu-giam-gia--toc-tuan-loc-2015-made-in-vn-15168.html|
-  [HOT] Vòng Quay Nốt Nhạc - Hốt ngay quà XỊN|http://au.vtcgame.vn/su-kien/[hot]-vong-quay-not-nhac---hot-ngay-qua-xin-15169.html|
-  Clip: Dàn Ông Bà Già Noel Au nhảy Flashmob cực đỉnh|http://au.vtcgame.vn/cong-dong/clip--dan-ong-ba-gia-noel-au-nhay-flashmob-cuc-dinh-15170.html|
-  Nốt Nhạc Thiên Bồng - Rủng rỉnh Quà Tặng Cuối Năm|http://au.vtcgame.vn/su-kien/not-nhac-thien-bong---rung-rinh-qua-tang-cuoi-nam-15171.html|
-  Hành trình đến "Vòng Quay Nốt Nhạc Bí Ẩn"|http://au.vtcgame.vn/su-kien/hanh-trinh-den--vong-quay-not-nhac-bi-an--15172.html|
-  Quẩy hết mình sinh nhật FAM —River•Star™|http://au.vtcgame.vn/cong-dong/quay-het-minh-sinh-nhat-fam-%E2%80%94river%E2%80%A2star%E2%84%A2-15173.html|
-  Gặp nhau cuối năm: NPH họp mặt chủ FAM tại Huế, ĐàNang...|http://au.vtcgame.vn/cong-dong/gap-nhau-cuoi-nam--nph-hop-mat-chu-fam-tai-hue--da-nang-15174.html|
-  26/12: Đồ mới lên kệ GALA SALE liên tiếp|http://au.vtcgame.vn/su-kien/26-12--do-moi-len-ke-gala-sale-lien-tiep-15175.html|
-  Thái Nguyên, Cần Thơ vui thi đấu cuối tuần - hẹn gặp nhau cuối năm!|http://au.vtcgame.vn/cong-dong/thai-nguyen--can-tho-vui-thi-dau-cuoi-tuan---hen-gap-nhau-cuoi-nam--15176.html|
-  TỔNG HỢP CHÙM SỰ KIỆN CUỐI NĂM - Rinh quà thật thích|http://au.vtcgame.vn/su-kien/tong-hop-chum-su-kien-cuoi-nam---rinh-qua-that-thich-15177.html|
-  Bí kíp cần có: VÒNG QUAY NỐT NHẠC BÍ ẨN|http://au.vtcgame.vn/su-kien/bi-kip-can-co--vong-quay-not-nhac-bi-an-15178.html|
-  ĐỒ ẨN lên kệ - Pha chơi trội nhất GALA SALE 2015|http://au.vtcgame.vn/thoi-trang/do-an-len-ke---pha-choi-troi-nhat-gala-sale-2015-15179.html|
-  Thông báo bảo trì: Vòng Quay Nốt Nhạc Bí Ẩn|http://au.vtcgame.vn/su-kien/thong-bao-bao-tri--vong-quay-not-nhac-bi-an-15180.html|
-  [HOT] Điên đảo Icon Nốt Nhạc và VIP II vĩnh viễn|http://au.vtcgame.vn/su-kien/[hot]-dien-dao-icon-not-nhac-va-vip-ii-vinh-vien-15181.html|
-  Gia đình Audition trao yêu thương đêm Giáng Sinh|http://au.vtcgame.vn/cong-dong/gia-dinh-audition-trao-yeu-thuong-dem-giang-sinh-15183.html|
-  [HOT] Trao quà đột ngột vì Ưu Đãi Thần Kỳ !!|http://au.vtcgame.vn/su-kien/[hot]-trao-qua-dot-ngot-vi-uu-dai-than-ky----15188.html|
-  Hãy quyết định âm nhạc Audition 2016|http://au.vtcgame.vn/cong-dong/hay-quyet-dinh-am-nhac-audition-2016-15189.html|
-  Truy lùng thông tin về kho quà hàng triệu game thủ mong...|http://au.vtcgame.vn/cong-dong/truy-lung-thong-tin-ve-kho-qua-hang-trieu-game-thu-mong-ngong-15191.html|
-  NPH VTC Game hô biến CỔNG VTC GAME chào năm mới|http://au.vtcgame.vn/cong-dong/nph-vtc-game-ho-bien-cong-vtc-game-chao-nam-moi-15190.html|
-  Đồ HOT chồng chất VIPSHOP, AUBOUTIQUE ngày 31/12|http://au.vtcgame.vn/su-kien/do-hot-chong-chat-vipshop--auboutique-ngay-31-12-15192.html|
+  
+  2016 - Đừng FA nữa nhé các vũ công AU!|http://au.vtcgame.vn/cong-dong/2016---dung-fa-nua-nhe-cac-vu-cong-au--15198.html|
+  GALA SALE 2015: Mua sắm thỏa thích, ôm quà đẳng cấp!|http://au.vtcgame.vn/su-kien/gala-sale-2015--mua-sam-thoa-thich--om-qua-dang-cap--15199.html|
+  List nhạc Audition rực rỡ cho thứ HIGH đầu tuần|http://au.vtcgame.vn/cong-dong/list-nhac-audition-ruc-ro-cho-thu-high-dau-tuan-15200.html|
   
   Nhận chăm tim KVTY (NEW)|https://www.facebook.com/groups/congdongaudition/permalink/1064975503574628|
   Ứng dụng tra cứu thông tin Tim, Exp, Nhiệm vụ: CoupleHeartPoint|https://www.facebook.com/bugvuonAudition/photos/a.767185870029093.1073741826.767181326696214/932958230118522|
