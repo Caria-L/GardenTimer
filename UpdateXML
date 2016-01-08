@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.3.0</version>
+  <version>1.9.3.1</version>
   <news>Hiện tại, thi thoảng vườn vẫn lag khung giờ..
 Nếu sau nhiều lần ~65ph không có tưới, các bạn có thể gửi hotro.vtcgame.vn
   </news>
@@ -10,7 +10,7 @@ Nếu sau nhiều lần ~65ph không có tưới, các bạn có thể gửi hot
   <urlTS>https://goo.gl/6250QH</urlTS>
   <serial>5CG3200KJH|40T43S1|2491152103819</serial>
   <newsver>
-v1.9.3.0 - Dung lượng: 875 kB
+v1.9.3.1 - Dung lượng: 875 kB
 - Mở lại giờ Kênh thi đấu.
 - Một vài thay đổi nhỏ khác
   </newsver>
