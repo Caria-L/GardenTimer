@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
   <version>1.9.3.4</version>
-  <news>
+  <news>Cho phép dùng thử chức năng tự chăm vườn nhiều nick (có thời hạn).
   </news>
   <url>https://goo.gl/qCbvAm</url>
   <urlUpdater>https://goo.gl/RSGhZ7</urlUpdater>
@@ -10,7 +10,7 @@
   <serial>ALL|-U5CG3200KJH|-40T43S1|-2491152103819</serial>
   <newsver>
 v1.9.3.4 - Dung lượng: 894 kB
-- Miễn phí (có thời hạn)
+- Dùng thử chức năng tự chăm vườn nhiều nick (có thời hạn)
 - Nâng lên 7 nick (7 khung giờ khu vườn)
 - Báo lỗi nếu chọn đường dẫn file nhạc có ký tự đặc biệt
 - Sửa lại hiển thị khi chọn các nick trong Trồng/Tưới/Quét
