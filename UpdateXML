@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.3.3</version>
+  <version>1.9.3.4</version>
   <news>
   </news>
   <url>https://goo.gl/qCbvAm</url>
@@ -9,7 +9,8 @@
   <urlTS>https://goo.gl/6250QH</urlTS>
   <serial>ALL|-U5CG3200KJH|-40T43S1|-2491152103819</serial>
   <newsver>
-v1.9.3.3 - Dung lượng: 894 kB
+v1.9.3.4 - Dung lượng: 894 kB
+- Miễn phí (có thời hạn)
 - Nâng lên 7 nick (7 khung giờ khu vườn)
 - Báo lỗi nếu chọn đường dẫn file nhạc có ký tự đặc biệt
 - Sửa lại hiển thị khi chọn các nick trong Trồng/Tưới/Quét
