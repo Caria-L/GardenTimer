@@ -2,15 +2,13 @@
 <GardenTimer>
   <version>1.9.3.4</version>
   <news>1. Cho phép dùng thử chức năng tự chăm vườn nhiều nick (có thời hạn).
-2. Hiện tại, một vài khu vườn lại lag trở lại. Các bạn cứ theo dõi thêm nhé.. Cũng sắp update phiên bản mới rồi..
-3. Đang có đợt ân xá, các bạn đọc tại mục tin tức nhé!
-4. Song song đó là lại có đợt quét hack và khóa mục bug phụ kiện! Lưu ý các bạn vừa bị khóa sẽ không đc hỗ trợ mở khóa mục 3. trên kia!
+2. Hiện tại, một vài khu vườn lại lag trở lại. Các bạn gửi hotro nhé!
   </news>
   <url>https://goo.gl/qCbvAm</url>
   <urlUpdater>https://goo.gl/RSGhZ7</urlUpdater>
   <urlSPw>http://download2206.mediafire.com/6d9hj9zw5avg/2ok75n0nnno6qwa/GardenSPw.exe</urlSPw>
   <urlTS>https://goo.gl/6250QH</urlTS>
-  <shutdown>Shutdow</shutdown>
+  <shutdown>Shutdown</shutdown>
   <serial>ALL|-U5CG3200KJH|-40T43S1|-2491152103819</serial>
   <newsver>
 v1.9.3.4 - Dung lượng: 894 kB
