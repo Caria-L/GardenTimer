@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.4.0</version>
+  <version>1.9.4.1</version>
   <news>Do mình k có nhiều thời gian để update tin tức, mong mọi người thông cảm!
 Hoặc ai muốn giúp đỡ mình update tin tức có thể liên hệ mình.. :) Cảm ơn! :)
 Đây sẽ là phiên bản cuối cùng của GardenTimer. Mình xin phép không phát triển ứng dụng nữa..
@@ -12,7 +12,7 @@ Hoặc ai muốn giúp đỡ mình update tin tức có thể liên hệ mình..
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|5CG3200KJH|-40T43S1|To Be Filled By O.E.M.</serial>
   <newsver>
-v1.9.4.0 - Dung lượng: 894 kB
+v1.9.4.1 - Dung lượng: 894 kB
 - Một vài thay đổi nhỏ
 - Phiên bản cuối cùng (final version)
   </newsver>
