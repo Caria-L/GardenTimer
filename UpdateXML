@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.4.4</version>
+  <version>1.9.4.5</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -10,7 +10,7 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|0PLA380</serial>
   <newsver>
-v1.9.4.4 - Dung lượng: 895 kB
+v1.9.4.5 - Dung lượng: 895 kB
 - Sửa mục tin tức
 - Sửa lại mã Serial
 - Một vài thay đổi nhỏ
