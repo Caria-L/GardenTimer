@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.4.6</version>
+  <version>1.9.4.8</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -8,9 +8,11 @@
   <urlSPw>http://download2206.mediafire.com/6d9hj9zw5avg/2ok75n0nnno6qwa/GardenSPw.exe</urlSPw>
   <urlTS>https://goo.gl/6250QH</urlTS>
   <shutdown>-Shutdown</shutdown>
-  <serial>-ALL|1ABD075|0PLA380|-1BD141</serial>
+  <serial>ALL|1ABD075|0PLA380|-1BD141</serial>
   <newsver>
-v1.9.4.6 - Dung lượng: 895 kB
+v1.9.4.8 - Dung lượng: 895 kB
+- Sửa lỗi triệt để chức năng chọn chuông báo bị lỗi, 
+    kể cả đã chọn từ trước.
 - Sửa mục tin tức
 - Sửa lại mã Serial
 - Một vài thay đổi nhỏ
@@ -18,7 +20,9 @@ v1.9.4.6 - Dung lượng: 895 kB
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
   Shop mua sắm giá rẻ: Auboutique |http://au.vtcgame.vn/auboutique|
+  Khuyến mại, giảm giá nhiều thứ =))|https://www.facebook.com/bugvuonAudition/photos/a.767185870029093.1073741826.767181326696214/979665455447799|
   Ngừng phát triển các tools|https://www.facebook.com/bugvuonAudition/posts/976430395771305|
+  Bản Mod số 12 - Tạp chí Audition lên sóng|https://www.facebook.com/bugvuonAudition/posts/972658916148453|
   VIP PARTY 2016 Miền Nam: Ngày hội VIP của năm|http://au.vtcgame.vn/su-kien/vip-party-2016-mien-nam--ngay-hoi-vip-cua-nam-15282.html|
   [UPDATE] Giai điệu yêu thương - BCN 2.27: Mùa Yêu|http://au.vtcgame.vn/update/[update]-giai-dieu-yeu-thuong---bcn-2-27--mua-yeu-15283.html|
   [UPDATE] Mê mệt thời trang đón tết cùng BCN Mùa Yêu!|http://au.vtcgame.vn/update/[update]-me-met-thoi-trang-don-tet-cung-bcn-mua-yeu--15284.html|
@@ -33,6 +37,8 @@ v1.9.4.6 - Dung lượng: 895 kB
   Đột nhập "Ghép chữ nhận thưởng" khám phá bộ 3 cánh VIP|http://au.vtcgame.vn/su-kien/dot-nhap--ghep-chu-nhan-thuong--kham-pha-bo-3-canh-vip-15295.html|
   Ngày của VIP 04/02: Thỏa thích "múc" đồ shop đôi siêu hot|http://au.vtcgame.vn/thoi-trang/ngay-cua-vip-04-02--thoa-thich--muc--do-shop-doi-sieu-hot-15296.html|
   Công bố TOP 10 Chủ nhân Icon Mây Mưa mới - vĩnh viễn|http://au.vtcgame.vn/su-kien/cong-bo-top-10-chu-nhan-icon-may-mua-moi---vinh-vien-15297.html|
+  Vòng quay NỐT NHẠC BÍ ẨN chính thức mở cửa|http://au.vtcgame.vn/su-kien/vong-quay-not-nhac-bi-an-chinh-thuc-mo-cua-15298.html|
+  Khám phá trào lưu mặc đồ thiết kế Made In Việt Nam|http://au.vtcgame.vn/thoi-trang/kham-pha-trao-luu-mac-do-thiet-ke-made-in-viet-nam-15299.html|
   Nhận chăm tim KVTY và thuê tools chăm nhiều nick|https://www.facebook.com/bugvuonAudition/posts/977422229005455|
   Ứng dụng tra cứu thông tin Tim, Exp, Nhiệm vụ lên Lv, Nhiệm vụ lên nhẫn: CoupleHeartPoint|https://www.facebook.com/bugvuonAudition/photos/a.767185870029093.1073741826.767181326696214/932958230118522|
   Tải Au|http://vtcgame.vn/download-games/2</tintuc>
