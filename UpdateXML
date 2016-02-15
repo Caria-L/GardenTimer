@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.5.1</version>
+  <version>1.9.5.2</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -10,8 +10,9 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|0PLA380|1ABD075|-1BD141|-9WS142</serial>
   <newsver>
-v1.9.5.1 - Dung lượng: 896 kB
+v1.9.5.2 - Dung lượng: 896 kB
 - Sửa lại mã Serial
+- Hiển thị nút checkbox Auto(*) ngay cả khi đang ẩn xuống
 - Một vài thay đổi nhỏ
 - Phiên bản cuối cùng (final version)
   </newsver>
