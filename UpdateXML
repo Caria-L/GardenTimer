@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.5.2</version>
-  <news>
+  <version>1.9.5.4</version>
+  <news>Có thể xảy ra lỗi khi liên hệ, tốt nhất nếu có gì các bạn liên hệ Fb nhé =)))
   </news>
   <url>https://goo.gl/6nWKAY</url>
   <urlUpdater>https://goo.gl/RSGhZ7</urlUpdater>
@@ -10,7 +10,8 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|0PLA380|-1BD141|00420AS</serial>
   <newsver>
-v1.9.5.2 - Dung lượng: 896 kB
+v1.9.5.4 - Dung lượng: 896 kB
+- Cảnh báo có thể xảy ra lỗi khi liên hệ, tốt nhất các bạn liên hệ Fb nhé =)))
 - Sửa lại mã Serial
 - Hiển thị nút checkbox Auto(*) ngay cả khi đang ẩn xuống
 - Một vài thay đổi nhỏ
