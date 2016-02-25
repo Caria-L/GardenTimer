@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.6.1</version>
+  <version>1.9.6.2</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -10,7 +10,8 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|0PLA380|-1BD141|00420AS</serial>
   <newsver>
-v1.9.6.1 - Dung lượng: 905 kB
+v1.9.6.2 - Dung lượng: 906 kB
+- Nút chọn "Trước" thông minh
 - Nút kiểm tra nhạc (nghe trước)
 - Nâng cấp các cảnh báo lỗi
 - Đặt giờ Auto thông minh (xem video hướng dẫn)
@@ -18,19 +19,11 @@ v1.9.6.1 - Dung lượng: 905 kB
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
   Shop mua sắm giá rẻ: Auboutique |http://au.vtcgame.vn/auboutique|
-  Khuyến mại, giảm giá nhiều thứ =))|https://www.facebook.com/bugvuonAudition/photos/a.767185870029093.1073741826.767181326696214/979665455447799|
-  [Hướng dẫn] Ghép chữ HAPPY NEW YEAR giật Cánh khủng|http://au.vtcgame.vn/update/[huong-dan]-ghep-chu-happy-new-year-giat-canh-khung-15288.html|
-  Shop Đôi giảm giá 7 Ngày Yêu: Vũ công AU ước gì được nấy|http://au.vtcgame.vn/thoi-trang/shop-doi-giam-gia-7-ngay-yeu--vu-cong-au-uoc-gi-duoc-nay-15333.html|
-  Năm Mới - Vũ Công Mới - Quà Tặng Mới|http://au.vtcgame.vn/su-kien/nam-moi---vu-cong-moi---qua-tang-moi-15336.html|
-  Ngày về 2016: Bất ngờ công bố TOP 10 tăng EXP|http://au.vtcgame.vn/su-kien/ngay-ve-2016--bat-ngo-cong-bo-top-10-tang-exp-15341.html|
-  [HOT] MÌNH YÊU NHAU ĐI: Khi nào hết FA nhỉ?|http://au.vtcgame.vn/su-kien/[hot]-minh-yeu-nhau-di--khi-nao-het-fa-nhi--15345.html|
-  [HOT] Cân Đẩu Vân Du Xuân - mần VCOIN cực dễ!|http://au.vtcgame.vn/cong-dong/[hot]-can-dau-van-du-xuan---man-vcoin-cuc-de--15347.html|
   Cầu Hôn Bá Đạo: 3 bước để có Trái Tim Yêu Thương vĩnh viễn|http://au.vtcgame.vn/su-kien/cau-hon-ba-dao--3-buoc-de-co-trai-tim-yeu-thuong-vinh-vien-15348.html|
-  Xúng xính quà tặng tháng 2 cùng Vòng quay may mắn|http://au.vtcgame.vn/su-kien/xung-xinh-qua-tang-thang-2-cung-vong-quay-may-man-15352.html|
-  TOP 10 Tài Lộc Phú Quý: Kết quả - kết quả đê!|http://au.vtcgame.vn/su-kien/top-10-tai-loc-phu-quy--ket-qua---ket-qua-de--15353.html|
-  Xuân Yêu Thương: Nhảy hơi gà vẫn có quà!|http://au.vtcgame.vn/cong-dong/xuan-yeu-thuong--nhay-hoi-ga-van-co-qua--15354.html|
-  Vòng quay NỐT NHẠC BÍ ẨN: quà về quà về!|http://au.vtcgame.vn/su-kien/vong-quay-not-nhac-bi-an--qua-ve-qua-ve--15356.html|
   LÌ XÌ MAY MẮN: hàng khủng Icon LOVE lộ diện! (Thực ra là I love Au, VTC vcc)|http://au.vtcgame.vn/su-kien/li-xi-may-man--hang-khung-icon-love-lo-dien--15355.html|
+  [Kết quả] FAM Tôi Là Số 1 - Ảnh FAM nào ấn tượng nhất!!|http://au.vtcgame.vn/cong-dong/[ket-qua]-fam-toi-la-so-1---anh-fam-nao-an-tuong-nhat---15368.html|
+  Hướng dẫn: Tính năng PHÂN LOẠI PHÒNG NHẢY|http://au.vtcgame.vn/huong-dan/huong-dan--tinh-nang-phan-loai-phong-nhay-15369.html|
+  Bứt phá ICON: Phát cuồng lên vì Nốt Nhạc Thiên Thần|http://au.vtcgame.vn/su-kien/but-pha-icon--phat-cuong-len-vi-not-nhac-thien-than-15372.html|
   Nhận chăm tim KVTY và thuê tools chăm nhiều nick|https://www.facebook.com/bugvuonAudition/posts/977422229005455|
   Ứng dụng tra cứu thông tin "CoupleHeartPoint"|https://www.facebook.com/bugvuonAudition/photos/a.767185870029093.1073741826.767181326696214/932958230118522|
   Tải Au|https://vtcgame.vn/download</tintuc>
