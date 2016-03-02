@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.6.6</version>
+  <version>1.9.6.7</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -10,7 +10,7 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|0PLA380|-1BD141|00420AS|-9WS142|EiMe-mP</serial>
   <newsver>
-v1.9.6.6 - Dung lượng: 909 kB
+v1.9.6.7 - Dung lượng: 909 kB
 - Nâng cấp giao diện thông tin nick..
 - Nút chọn "Trước" thông minh
 - Nút kiểm tra nhạc (nghe trước)
