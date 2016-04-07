@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.6.9</version>
+  <version>1.9.7.0</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -9,7 +9,7 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|iSnE7R0|-1BD141|GUASNEG|Nv-eIn9</serial>
   <newsver>
-v1.9.6.9 - Dung lượng: 909 kB
+v1.9.7.0 - Dung lượng: 909 kB
 - Sửa lỗi k kết nối được tới máy chủ
 - Sửa lỗi k điền được mật khẩu ký tự đặc biệt
 - Sửa lỗi k khởi động ở một vài máy
