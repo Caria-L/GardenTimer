@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.7.0</version>
+  <version>1.9.7.1</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -9,15 +9,11 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|FtUo1rA|-1BD141|GUASNEG|Nv-eIn9</serial>
   <newsver>
-v1.9.7.0 - Dung lượng: 909 kB
-- Sửa lỗi k kết nối được tới máy chủ
-- Sửa lỗi k điền được mật khẩu ký tự đặc biệt
-- Sửa lỗi k khởi động ở một vài máy
-- Nâng cấp giao diện thông tin nick..
-- Nút chọn "Trước" thông minh
-- Nút kiểm tra nhạc (nghe trước)
-- Nâng cấp các cảnh báo lỗi
-- Đặt giờ Auto thông minh (xem video hướng dẫn)
+v1.9.7.1 - Dung lượng: 910 kB
+- Tự kích tiếng Perfect
+- Tự tắt tiếng póc póc khi di chuột
+- Tự tắt tiếng clíck clíck khi bấm chọn
+(Chỉ trong khi bật GardenTimer)
 - Một vài thay đổi nhỏ
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
