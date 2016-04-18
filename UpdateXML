@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.7.1</version>
+  <version>1.9.7.2</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -9,11 +9,12 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|FtUo1rA|-1BD141|GUASNEG|Nv-eIn9</serial>
   <newsver>
-v1.9.7.1 - Dung lượng: 911 kB
+v1.9.7.2 - Dung lượng: 1005 kB
 - Tự kích tiếng Perfect
 - Tự tắt tiếng póc póc khi di chuột
 - Tự tắt tiếng clíck clíck khi bấm chọn
 (Chỉ trong khi bật GardenTimer)
+- Thêm giao diện định vị tệp tin Audition
 - Một vài thay đổi nhỏ
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
