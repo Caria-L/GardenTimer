@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.7.2</version>
+  <version>1.9.7.3</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -9,16 +9,17 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|FtUo1rA|-1BD141|GUASNEG|Nv-eIn9</serial>
   <newsver>
-v1.9.7.2 - Dung lượng: 1005 kB
-- Tự kích tiếng Perfect
-- Tự tắt tiếng póc póc khi di chuột
-- Tự tắt tiếng clíck clíck khi bấm chọn
-(Chỉ trong khi bật GardenTimer)
+v1.9.7.3 - Dung lượng: 1005 kB
+- Ngăn khởi động 2 lần
+- Tích hợp CoupleHeartPoint vào GardenTimer (Mở rộng)
 - Thêm giao diện định vị tệp tin Audition
+- Tự kích tiếng Perfect (Khi bật GardenTimer)
+- Tự tắt tiếng póc póc khi di chuột (Khi bật GardenTimer)
+- Tự tắt tiếng clíck clíck khi bấm chọn (Khi bật GardenTimer)
 - Một vài thay đổi nhỏ
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
-  Shop mua sắm giá rẻ: Auboutique |http://au.vtcgame.vn/auboutique|
+  Shop mua sắm giá rẻ: Auboutique|http://au.vtcgame.vn/auboutique|
   Ứng dụng tra cứu thông tin "CoupleHeartPoint"|https://www.facebook.com/bugvuonAudition/photos/a.767185870029093.1073741826.767181326696214/932958230118522|
   Giảm giá siêu SỐC giải nhiệt mùa hè|http://au.vtcgame.vn/thoi-trang/giam-gia-sieu-soc-giai-nhiet-mua-he-15478.html|
   [HOT] SỰ KIỆN “1 Vcoin Vàng”: Tự chọn đồ vĩnh viễn|http://au.vtcgame.vn/su-kien/[hot]-su-kien--1-vcoin-vang---tu-chon-do-vinh-vien-15480.html|
