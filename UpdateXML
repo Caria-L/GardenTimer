@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.7.3</version>
+  <version>1.9.7.5</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -10,13 +10,13 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|FtUo1rA|-1BD141|GUASNEG|Nv-eIn9</serial>
   <newsver>
-v1.9.7.3 - Dung lượng: 1005 kB
+v1.9.7.5 - Dung lượng: 1209 kB
+- Chức năng "All MOD in 1": Tự tải về và cài đặt các bản mod.
 - Ngăn khởi động 2 lần
 - Tích hợp CoupleHeartPoint vào GardenTimer (Mở rộng)
 - Thêm giao diện định vị tệp tin Audition
 - Tự kích tiếng Perfect (Khi bật GardenTimer)
-- Tự tắt tiếng póc póc khi di chuột (Khi bật GardenTimer)
-- Tự tắt tiếng clíck clíck khi bấm chọn (Khi bật GardenTimer)
+- Tự tắt tiếng póc póc, clíck clíck khi bấm chọn (Khi bật GardenTimer)
 - Một vài thay đổi nhỏ
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
