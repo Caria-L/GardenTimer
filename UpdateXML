@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.7.10</version>
+  <version>1.9.7.11</version>
   <news>Đã có tùy chọn Kích FPS trong khu vực cài đặt
 dành cho những bạn muốn kích Frame mặc định của Au.
   </news>
@@ -11,7 +11,7 @@ dành cho những bạn muốn kích Frame mặc định của Au.
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|FtUo1rA|-1BD141|GUASNEG|Nv-eIn9</serial>
   <newsver>
-v1.9.7.10 - Dung lượng: 1207 kB
+v1.9.7.11 - Dung lượng: 1207 kB
 - Kích FPS
 - Chức năng "All MOD in 1" - Tự động tải về và cài đặt
 các bản mod, các file tiện ích (Mở rộng)
