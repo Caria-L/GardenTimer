@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.7.5</version>
+  <version>1.9.7.7</version>
   <news>[NEW] Ngay bây giờ, bạn có thể sử dụng các bản Mod một cách nhanh chóng và tự động, bằng cách bấm vào nút 'All MOD in 1' ngay trong giao diện của GardenTimer.
   Cài đặt Mod chưa bao giờ dễ dàng đến thế.
   Mọi thắc mắc vui lòng liên hệ page nhé! :*
@@ -12,7 +12,8 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|FtUo1rA|-1BD141|GUASNEG|Nv-eIn9</serial>
   <newsver>
-v1.9.7.5 - Dung lượng: 1209 kB
+v1.9.7.7 - Dung lượng: 1207 kB
+- Kích FPS
 - Chức năng "All MOD in 1" - Tự động tải về và cài đặt
 các bản mod, các file tiện ích (Mở rộng)
 - Ngăn khởi động 2 lần
