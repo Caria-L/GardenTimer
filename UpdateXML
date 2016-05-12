@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.7.12</version>
+  <version>1.9.8.0</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -10,7 +10,8 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|FtYo6rG|-1BD141|Nv-eIn9</serial>
   <newsver>
-v1.9.7.12 - Dung lượng: 1207 kB
+v1.9.8.0 - Dung lượng: 1207 kB
+- UniKey for Audition
 - Kích FPS
 - Chức năng "All MOD in 1" - Tự động tải về và cài đặt
 các bản mod, các file tiện ích (Mở rộng)
@@ -42,7 +43,7 @@ các bản mod, các file tiện ích (Mở rộng)
   Modification 12|https://dl.dropboxusercontent.com/s/tbmml7l59v803q0/Mod_12.zip
   </Mod>
   <OtherMod>Original|https://dl.dropboxusercontent.com/s/wcjanub6ye0l4od/Original.zip|
-  UniKey|https://dl.dropboxusercontent.com/s/vmrzbc5ewvsux4l/UniKey.zip|
+  UniKey for Audition|https://dl.dropboxusercontent.com/s/vmrzbc5ewvsux4l/UniKey.zip|
   Cập nhật file chống dis|https://dl.dropboxusercontent.com/s/34tzp4ruqlr6tn4/Unti-Dis.zip|
   Mod giao diện Pass 2|https://dl.dropboxusercontent.com/s/spw39opmc5d4k1v/Mod_Pass2.zip|
   File làm BigGame "Mai mai Audition"|https://dl.dropboxusercontent.com/s/ygzswsr5uay69v9/Mod_BG_MMAudition.zip|
