@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
   <version>1.9.7.12</version>
-  <news>Đã có tùy chọn Kích FPS trong khu vực cài đặt
-dành cho những bạn muốn kích Frame mặc định của Au.
+  <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
   <urlUpdater>https://goo.gl/RSGhZ7</urlUpdater>
