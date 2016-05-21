@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.8.0</version>
+  <version>1.9.8.1</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -10,25 +10,18 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|FtYo6rG|-1BD141|Nv-eIn9</serial>
   <newsver>
-v1.9.8.0 - Dung lượng: 1207 kB
-- UniKey for Audition
-- Kích FPS
-- Chức năng "All MOD in 1" - Tự động tải về và cài đặt
-các bản mod, các file tiện ích (Mở rộng)
-- Ngăn khởi động 2 lần
-- Tích hợp CoupleHeartPoint - Tra cứu thông tin (Mở rộng)
-- Thêm giao diện định vị tệp tin Audition
-- Tự kích tiếng Perfect (Mặc định)
-- Tự tắt tiếng póc póc, clíck clíck của Au (Mặc định)
+v1.9.8.01- Dung lượng: 1205 kB
+- Chuyển ĐĂNG KÝ sang Google biểu mẫu
+- Sửa lỗi Kích FPS khi Au đang chạy 
 - Một vài thay đổi nhỏ
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
   Shop mua sắm giá rẻ: Auboutique|http://au.vtcgame.vn/auboutique|
-  "CoupleHeartPoint" tích hợp thẳng vào GardenTimer|https://www.facebook.com/bugvuonAudition/photos/a.767185870029093.1073741826.767181326696214/1032857210128623|
-  Hàng nghìn cặp đôi "yêu" trong 2 ngày tại Audition|http://au.vtcgame.vn/su-kien/hang-nghin-cap-doi--yeu--trong-2-ngay-tai-audition-15548.html|
-  [HOT] Sự kiện: Cứ chơi là có GẤU|http://au.vtcgame.vn/su-kien/[hot]-su-kien--cu-choi-la-co-gau-15549.html|
-  Chỉ 1 click, mua ngay đồ hịn giá 19 Vcoin!!!|http://au.vtcgame.vn/thoi-trang/chi-1-click--mua-ngay-do-hin-gia-19-vcoin----15550.html|
-  Clip yêu xa siêu kute làm chao đảo cộng đồng Audition|http://au.vtcgame.vn/cong-dong/clip-yeu-xa-sieu-kute-lam-chao-dao-cong-dong-audition-15551.html|
+  [HOT] Icon Kẹo mút tình yêu đổ bộ nhà Audition|http://au.vtcgame.vn/su-kien/[hot]-icon-keo-mut-tinh-yeu-do-bo-nha-audition-15557.html|
+  BÍ KÍP độc quyền để sở hữu BIKINI vĩnh viễn|http://au.vtcgame.vn/su-kien/bi-kip-doc-quyen-de-so-huu-bikini-vinh-vien-15558.html|
+  AU ĐẸP: Phối đồ 12 cung hoàng đạo giảm giá 60%|http://au.vtcgame.vn/thoi-trang/au-dep--phoi-do-12-cung-hoang-dao-giam-gia-60-15559.html|
+  AU ĐẸP: Phối đồ 12 cung hoàng đạo giảm giá 80% (tiếp)|http://au.vtcgame.vn/thoi-trang/au-dep--phoi-do-12-cung-hoang-dao-giam-gia-80-(tiep)-15561.html|
+  TPVH: Rơi nước mắt khi tình yêu trở về|http://au.vtcgame.vn/cong-dong/tpvh--roi-nuoc-mat-khi-tinh-yeu-tro-ve-15560.html|
   Tải Au|https://vtcgame.vn/download</tintuc>
   <desktopFile></desktopFile>
   <Mod>Modification 1|https://dl.dropboxusercontent.com/s/8hkfxkaaj88e5zz/Mod_1.zip|
