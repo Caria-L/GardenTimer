@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.8.2</version>
+  <version>1.9.8.3</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -10,17 +10,17 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|Nr-i2aR|Nr-iHaD|FtYo6rG|Nv-eIn9</serial>
   <newsver>
-v1.9.8.2 - Dung lượng: 1589 kB
+v1.9.8.3 - Dung lượng: 1589 kB
 - Tích hợp file Kích FPS, không cần tải online nữa
+- Sửa chữa một số lỗi nhỏ
 - Một vài thay đổi nhỏ
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
   Shop mua sắm giá rẻ: Auboutique|http://au.vtcgame.vn/auboutique|
-  AU ĐẸP: Phối đồ 12 cung hoàng đạo giảm giá 60%|http://au.vtcgame.vn/thoi-trang/au-dep--phoi-do-12-cung-hoang-dao-giam-gia-60-15559.html|
-  AU ĐẸP: Phối đồ 12 cung hoàng đạo giảm giá 80% (tiếp)|http://au.vtcgame.vn/thoi-trang/au-dep--phoi-do-12-cung-hoang-dao-giam-gia-80-(tiep)-15561.html|
-  TPVH: Rơi nước mắt khi tình yêu trở về|http://au.vtcgame.vn/cong-dong/tpvh--roi-nuoc-mat-khi-tinh-yeu-tro-ve-15560.html|
-  [UPDATE] 10 bản nhạc HOT và 24 skills nhảy mới của BCN 2.34|http://au.vtcgame.vn/update/[update]-10-ban-nhac-hot-va-24-skills-nhay-moi-cua-bcn-2-34-15563.html|
-  [UPDATE] Chao ôi! Loạt đồ thiên thần BCN 2.34!|http://au.vtcgame.vn/update/[update]-chao-oi--loat-do-thien-than-bcn-2-34--15565.html|
+  SỐC! Dung lượng bộ cài Au chỉ còn 3GB|http://au.vtcgame.vn/su-kien/soc--dung-luong-bo-cai-au-chi-con-3gb-15584.html|
+  100 triệu về tay ai???|http://au.vtcgame.vn/cong-dong/100-trieu-ve-tay-ai----15587.html|
+  "Mua đúng lúc, Múc Icon" thôiiiii!|http://au.vtcgame.vn/su-kien/-mua-dung-luc--muc-icon--thoiiiii--15588.html|
+  Icon VIP dành cho top tháng 5, check ngay nào!|http://au.vtcgame.vn/cong-dong/icon-vip-danh-cho-top-thang-5--check-ngay-nao--15589.html|
   Tải Au|https://vtcgame.vn/download?gameid=2</tintuc>
   <desktopFile></desktopFile>
   <Mod>Modification 1|https://dl.dropboxusercontent.com/s/8hkfxkaaj88e5zz/Mod_1.zip|
