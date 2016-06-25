@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
   <version>1.9.8.3</version>
-  <news>
+  <new>
   </news>
   <url>https://goo.gl/6nWKAY</url>
   <urlUpdater>https://goo.gl/RSGhZ7</urlUpdater>
   <urlTS>https://goo.gl/6250QH</urlTS>
   <OriVer>2.35</OriVer>
   <shutdown>-Shutdown</shutdown>
-  <serial>-ALL|1ABD075|Nr-i2aR|Nr-iHaD|FtYo6rG|Nv-eIn9|-1DG142</serial>
+  <serial>-ALL|1ABD075|FtYo6rG|Nv-eIn9|-1DG142</serial>
   <newsver>
 v1.9.8.3 - Dung lượng: 1589 kB
 - Tích hợp file Kích FPS, không cần tải online nữa
