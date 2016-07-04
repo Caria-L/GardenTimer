@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.8.3</version>
+  <version>1.9.8.4</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -10,9 +10,10 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|FtYo6rG|Nv-eIn9|-1DG142|2200386</serial>
   <newsver>
-v1.9.8.3 - Dung lượng: 1589 kB
+v1.9.8.4 - Dung lượng: 1589 kB
+- Thêm hướng dẫn chọn file Audition.exe
 - Tích hợp file Kích FPS, không cần tải online nữa
-- Sửa chữa một số lỗi nhỏ
+- Sửa một số lỗi nhỏ
 - Một vài thay đổi nhỏ
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
