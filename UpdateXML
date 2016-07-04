@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.8.4</version>
+  <version>1.9.8.5</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
   <urlUpdater>https://goo.gl/RSGhZ7</urlUpdater>
   <urlTS>https://goo.gl/6250QH</urlTS>
-  <OriVer>2.35</OriVer>
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|FtYo6rG|Nv-eIn9|-1DG142|2200386</serial>
   <newsver>
-v1.9.8.4 - Dung lượng: 1589 kB
+v1.9.8.5 - Dung lượng: 1589 kB
+- Sửa lỗi file Khôi phục
 - Thêm hướng dẫn chọn file Audition.exe
 - Tích hợp file Kích FPS, không cần tải online nữa
 - Sửa một số lỗi nhỏ
@@ -18,13 +18,14 @@ v1.9.8.4 - Dung lượng: 1589 kB
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
   Shop mua sắm giá rẻ: Auboutique|http://au.vtcgame.vn/auboutique|
-  Quà VĨNH VIỄN sự kiện "Bước nhảy mèo xinh" đã về làng|http://au.vtcgame.vn/su-kien/qua-vinh-vien-su-kien--buoc-nhay-meo-xinh--da-ve-lang-15593.html|
-  Nhận Giftcode thả phanh, nhanh tay vào Club|http://au.vtcgame.vn/su-kien/nhan-giftcode-tha-phanh--nhanh-tay-vao-club-15594.html|
-  Nóng bỏng tay BCN 2.35 "Biển xanh ngập nắng"|http://au.vtcgame.vn/update/nong-bong-tay-bcn-2-35--bien-xanh-ngap-nang--15595.html|
-  "Thứ Ba tuyệt vời" lên sóng đồ MIỄN PHÍ siêu mới|http://au.vtcgame.vn/su-kien/-thu-ba-tuyet-voi--len-song-do-mien-phi-sieu-moi-15596.html|
-  Ai là người đã mua đúng lúc và múc được Icon?|http://au.vtcgame.vn/su-kien/ai-la-nguoi-da-mua-dung-luc-va-muc-duoc-icon--15597.html|
-  [HOT] Đồ thiết kế BCN tháng 6 làm điêu đứng nhà Au|http://au.vtcgame.vn/update/[hot]-do-thiet-ke-bcn-thang-6-lam-dieu-dung-nha-au-15598.html|
-  [NEW] Link download BCN tháng 6: "Biển xanh ngập nắng"|http://au.vtcgame.vn/update/[new]-link-download-bcn-thang-6---bien-xanh-ngap-nang--15599.html|
+  [SỰ KIỆN] Chỉ cần tham gia, nhận ngay Icon Ngôi sao lấp lánh|http://au.vtcgame.vn/su-kien/[su-kien]-chi-can-tham-gia--nhan-ngay-icon-ngoi-sao-lap-lanh-15602.html|
+  [QUAN TRỌNG] Thay đổi cặp nhẫn siêu dễ thương cho nhà Au|http://au.vtcgame.vn/update/[quan-trong]-thay-doi-cap-nhan-sieu-de-thuong-cho-nha-au-15603.html|
+  Sở hữu hàng nghìn Vcoin ngay trong tầm tay!!!|http://au.vtcgame.vn/su-kien/so-huu-hang-nghin-vcoin-ngay-trong-tam-tay----15604.html|
+  [SỰ KIỆN] Ưu đãi gọi hè về|http://au.vtcgame.vn/su-kien/[su-kien]-uu-dai-goi-he-ve-15605.html|
+  Điều gì HOT trong "Thứ Ba tuyệt vời"???|http://au.vtcgame.vn/su-kien/dieu-gi-hot-trong--thu-ba-tuyet-voi-----15606.html|
+  Hè rộn ràng, muôn vàn quà tặng|http://au.vtcgame.vn/su-kien/he-ron-rang--muon-van-qua-tang-15607.html|
+  [NEW] Độc chiếm ngay Icon vĩnh viễn Giấc mơ màu tím|http://au.vtcgame.vn/su-kien/[new]-doc-chiem-ngay-icon-vinh-vien-giac-mo-mau-tim-15608.html|
+  Tưng bừng sinh nhật Club Audition TP Hồ Chí Minh|http://au.vtcgame.vn/cong-dong/tung-bung-sinh-nhat-club-audition-tp-ho-chi-minh-15609.html|
   Tải Au|https://vtcgame.vn/download?gameid=2</tintuc>
   <desktopFile></desktopFile>
   <Mod>Modification 1|https://dl.dropboxusercontent.com/s/8hkfxkaaj88e5zz/Mod_1.zip|
