@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.8.5</version>
+  <version>1.9.9.0</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -9,10 +9,9 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|16/07/16 16:47|FtYo6rG|26/09/18 00:00|Nv-eIn9|22/07/16 20:00|-1DG142|25/07/16 21:15|2200386|24/07/16 13:00</serial>
   <newsver>
-v1.9.8.5 - Dung lượng: 1589 kB
-- Sửa lỗi file Khôi phục
-- Thêm hướng dẫn chọn file Audition.exe
-- Tích hợp file Kích FPS, không cần tải online nữa
+v1.9.9.0 - Dung lượng: 1593 kB
+- Thêm hiển thị ngày giờ hết hạn Đăng ký
+- Thêm vài ghi chép cho logs file
 - Sửa một số lỗi nhỏ
 - Một vài thay đổi nhỏ
   </newsver>
