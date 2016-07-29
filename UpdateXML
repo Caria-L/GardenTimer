@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
   <version>1.9.9.1</version>
-  <news>Hiện tại một số máy đã đăng ký GT bị gặp lỗi
-KHÔNG MỞ ĐƯỢC GT DO ĐỊNH DẠNG NGÀY GIỜ KHÔNG KHỚP.
-Hãy điền định dạng ngày trong máy tính: dddd, dd/MM/yyyy.
+  <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
   <urlUpdater>https://goo.gl/RSGhZ7</urlUpdater>
