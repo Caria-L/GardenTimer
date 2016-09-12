@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.9.3</version>
+  <version>1.9.9.4</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -9,7 +9,7 @@
   <shutdown>-Shutdown</shutdown>
   <serial>-ALL|1ABD075|26/09/18 00:00|Nv-eIn9|19/09/16 16:30</serial>
   <newsver>
-v1.9.9.3 - Dung lượng: 1592 kB
+v1.9.9.4 - Dung lượng: 1592 kB
 - Âm báo nếu mất mạng
 - Loại bỏ tiếng Miss khi nhảy thường
 - Thêm hiển thị ngày giờ hết hạn Đăng ký
