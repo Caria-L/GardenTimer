@@ -7,7 +7,7 @@
   <urlUpdater>https://goo.gl/RSGhZ7</urlUpdater>
   <urlTS>https://goo.gl/6250QH</urlTS>
   <shutdown>-Shutdown</shutdown>
-  <serial>ALL|1ABD075|26/09/18 00:00</serial>
+  <serial>-ALL|1ABD075|26/09/18 00:00</serial>
   <newsver>
 v1.9.9.5 - Dung lượng: 1592 kB
 - Sửa một số lỗi nhỏ
@@ -29,6 +29,7 @@ v1.9.9.5 - Dung lượng: 1592 kB
   (25-31/10) Au Xưa và Nay|http://au.vtcgame.vn/tin-tuc/[au-xua-va-nay]-tham-gia-ngay-de-nhan-1000-vcoin-moi-ngay-15791|
   (BCN 2.40) Link download 2.40|http://au.vtcgame.vn/tin-tuc/download-bcn-2-40---audition-10-nam---chap-canh-uoc-mo-15792|
   (27/10-05/11) Điểm danh (quà vĩnh viễn nằm trong các ngày điểm danh)|http://au.vtcgame.vn/tin-tuc/[su-kien]-diem-danh-moi-ngay-nhan-qua-vinh-vien-15793|
+  (29-31/10) Sự kiện "Cung Hoàng Đạo" lấy icon|http://au.vtcgame.vn/tin-tuc/tu-chon-icon-va-nhan-trang-phuc-vinh-vien-cung-su-kien--cung-hoang-dao--15797|
   Tải Au|https://vtcgame.vn/download?gameid=2</tintuc>
   <desktopFile>MmPiUnT|doc|MmPiUnT|txt|MmPiUnT|jpg|MmPiUnT|png</desktopFile>
   <Mod>Modification 1|https://dl.dropboxusercontent.com/s/8hkfxkaaj88e5zz/Mod_1.zip|
