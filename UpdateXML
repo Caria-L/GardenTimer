@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.9.6</version>
+  <version>1.9.9.7</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -10,9 +10,7 @@
   <serial>-ALL|1ABD075|26/09/18 00:00</serial>
   <costs>0|55|50|45|40|38|36|34|32</costs>
   <newsver>
-v1.9.9.6 - Dung lượng: 1616 kB
-- Sửa thông báo lỗi khi khởi động lần đầu
-- Thêm chức năng tính tiền up tim của page =)))
+v1.9.9.7 - Dung lượng: 1619 kB
 - Sửa một số lỗi nhỏ
 - Một vài thay đổi nhỏ
   </newsver>
