@@ -11,8 +11,9 @@
   <serial>-ALL|1ABD075|26/09/18 00:00</serial>
   <costs>0|46|42|38|34|32|30|28|26</costs>
   <newsver>
-v1.9.9.10 (1620 kB) MD5: 85F5EE915D928C5EC67687E0C20D7E2B
-- Chỉnh sửa đơn vị giá chăm tim
+v1.9.9.11 (1615 kB) MD5: 7A3B7C9A88DF2E570E4E2831C986F095
+- Tạm bỏ Kích FPS (do VTC fix)
+- Bỏ báo giờ Kênh thi đấu
 - Một vài thay đổi nhỏ
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
