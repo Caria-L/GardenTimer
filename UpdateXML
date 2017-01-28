@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.9.12</version>
+  <version>1.9.9.14</version>
   <news>
   </news>
   <url>https://goo.gl/6nWKAY</url>
@@ -11,7 +11,8 @@
   <serial>-ALL|1ABD075|26/09/18 00:00|-1DG142|07/02/17 11:30</serial>
   <costs>0|46|42|38|34|32|30|28|26</costs>
   <newsver>
-v1.9.9.12 (1627 kB) MD5: B429ECA8A519C6AF89D60D6EABCA7612
+v1.9.9.14 (1628 kB) MD5: 5533471572C5980CD5B38ED9143A623D
+- Thêm tính năng trong hẹn giờ
 - Thêm tính năng trong COST
 - Tạm bỏ Kích FPS (do VTC fix)
 - Bỏ báo giờ Kênh thi đấu
