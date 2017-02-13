@@ -11,7 +11,7 @@
   <serial>-ALL|1ABD075|26/09/18 00:00|-1DG142|07/02/17 11:30</serial>
   <costs>0|46|42|38|34|32|30|28|26</costs>
   <newsver>
-v1.9.9.15 (1628 kB) MD5: 035DD63F8D928FB1073926F71DA6395F
+v1.9.9.15 (1628 kB) MD5: F8FAE39C8DCEE1571DEB108878CEACCE
 - Thêm tính năng trong hẹn giờ
 - Thêm tính năng trong COST
 - Tạm bỏ Kích FPS (do VTC fix)
