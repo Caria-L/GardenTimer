@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
-  <version>1.9.10.0</version>
+  <version>1.9.10.1</version>
   <news>
   </news>
   <url>https://dl.dropboxusercontent.com/s/n0wxzihjqrdtxs7/GardenTimer.exe</url>
@@ -11,12 +11,10 @@
   <serial>-ALL|1ABD075|26/09/18 00:00|2200386|16/03/17 09:00|CC3PPBX|20/03/17 22:30</serial>
   <costs>0|46|42|38|34|32|30|28|26</costs>
   <newsver>
-v1.9.10.0 (MD5: 06B801B9405C855E0E0E62D79D0ED977)
+v1.9.10.1 (MD5: 5F34A39279D2CF8E1172D2896EA08B73)
+- Sửa lại định dạng ngày giờ cho các máy đã đăng ký
 - Thêm GT-Mini
 - Thêm tính năng trong hẹn giờ
-- Thêm tính năng trong COST
-- Tạm bỏ Kích FPS (do VTC fix)
-- Bỏ báo giờ Kênh thi đấu
 - Một vài thay đổi nhỏ
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
