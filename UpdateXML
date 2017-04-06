@@ -3,9 +3,9 @@
   <version>1.9.10.2</version>
   <news>
   </news>
-  <url>https://dl.dropboxusercontent.com/s/n0wxzihjqrdtxs7/GardenTimer.exe</url>
-  <urlUpdater>https://dl.dropboxusercontent.com/s/qkte4tcohbtsl1h/GardenTimerAutoUpdater.exe</urlUpdater>
-  <urlTS>https://dl.dropboxusercontent.com/s/jyhknr49xwl4tjb/TS.exe</urlTS>
+  <url>https://dl.dropboxusercontent.com/s/r8bamyftnik0vv3/GardenTimer.exe</url>
+  <urlUpdater>https://dl.dropboxusercontent.com/s/p1i8r2io1k74ztl/GardenTimerAutoUpdater.exe</urlUpdater>
+  <urlTS>https://dl.dropboxusercontent.com/s/zf5tfr3c727dhz0/TS.exe</urlTS>
   <shutdown>-Shutdown</shutdown>
   <strPass>Passsss.</strPass>
   <serial>-ALL|1ABD075|31/12/20 23:59|CC3PPBX|25/03/17 03:00</serial>
