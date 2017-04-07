@@ -3,9 +3,9 @@
   <version>1.9.10.2</version>
   <news>
   </news>
-  <url>https://dl.dropboxusercontent.com/s/fvxojazv417uszr/GardenTimer.exe</url>
-  <urlUpdater>https://dl.dropboxusercontent.com/s/p1i8r2io1k74ztl/GardenTimerAutoUpdater.exe</urlUpdater>
-  <urlTS>https://dl.dropboxusercontent.com/s/zf5tfr3c727dhz0/TS.exe</urlTS>
+  <url>https://dl.dropboxusercontent.com/s/xmxv0f0q9gz9rzn/GT</url>
+  <urlUpdater>https://dl.dropboxusercontent.com/s/lyxmk0iqt9bhdn1/GT_AutoUpdater</urlUpdater>
+  <urlTS>https://dl.dropboxusercontent.com/s/qmbovcbgu56dqhf/TS.exe</urlTS>
   <shutdown>-Shutdown</shutdown>
   <strPass>Passsss.</strPass>
   <serial>-ALL|1ABD075|31/12/20 23:59|CC3PPBX|25/03/17 03:00</serial>
@@ -24,20 +24,20 @@ v1.9.10.2 (MD5: B3D8B39E02200BF31379DBFE2B147769)
   <desktopFile></desktopFile>
   <Mod>
   </Mod>
-  <Music>ABM 2.46 (27.4 MB)|https://dl.dropboxusercontent.com/s/o4i2pg5wmdw2sk0/ABM_2.46.zip|
-  ABM 2.45 (25.27 MB)|https://dl.dropboxusercontent.com/s/ad4k49p74twtz87/ABM_2.45.zip|
-  ABM 2.44 (32.47 MB)|https://dl.dropboxusercontent.com/s/rf52knwn6vc1aw1/ABM_2.44.zip|
-  ABM 2.43 (26.01 MB)|https://dl.dropboxusercontent.com/s/28j2ngfwnp4zys7/ABM_2.43.zip|
+  <Music>ABM 2.46 (27.4 MB)|https://dl.dropboxusercontent.com/s/1zzjp8xmdvz9oo3/ABM_2.46|
+  ABM 2.45 (25.27 MB)|https://dl.dropboxusercontent.com/s/5czlvegrirtrg4x/ABM_2.45|
+  ABM 2.44 (32.47 MB)|https://dl.dropboxusercontent.com/s/x1sqwjz3yju4a2e/ABM_2.44|
+  ABM 2.43 (26.01 MB)|https://dl.dropboxusercontent.com/s/rv6ir94nmvcbo4e/ABM_2.43|
   ABM 2.42 (0 MB)|Không có nhạc mới trong phiên bản 2.42|
-  ABM 2.41 (28.23 MB)|https://dl.dropboxusercontent.com/s/q2ryhxo1py2w673/ABM_2.41.zip|
-  ABM 2.40 (26.45 MB)|https://dl.dropboxusercontent.com/s/e2qc7bmcn3t0ljo/ABM_2.40.zip
+  ABM 2.41 (28.23 MB)|https://dl.dropboxusercontent.com/s/hz4gpl22srz1g6i/ABM_2.41|
+  ABM 2.40 (26.45 MB)|https://dl.dropboxusercontent.com/s/zv9zp5z3wx5xkwl/ABM_2.40
   </Music>
-  <OtherMod>197889384|https://dl.dropboxusercontent.com/s/wcjanub6ye0l4od/Original.zip|
-  UniKey for Audition|https://dl.dropboxusercontent.com/s/vmrzbc5ewvsux4l/UniKey.zip|
-  File chống dis màu chữ|https://dl.dropboxusercontent.com/s/34tzp4ruqlr6tn4/Unti-Dis.zip|
-  Mod giao diện Pass 2|https://dl.dropboxusercontent.com/s/spw39opmc5d4k1v/Mod_Pass2.zip|
-  File làm BigGame "Mai mai Audition"|https://dl.dropboxusercontent.com/s/ygzswsr5uay69v9/Mod_BG_MMAudition.zip|
-  Fix lỗi sai phiên bản khi cập nhật|https://dl.dropboxusercontent.com/s/di732r0ix84yg0a/FixVer.zip|
+  <OtherMod>197889384|https://dl.dropboxusercontent.com/s/wcjanub6ye0l4od/Original|
+  UniKey for Audition|https://dl.dropboxusercontent.com/s/6luyzqwhfkh5ckd/UniKey|
+  File chống dis màu chữ|https://dl.dropboxusercontent.com/s/npwh2l852vmj0pz/Unti-Dis_MauChu|
+  Mod giao diện Pass 2|https://dl.dropboxusercontent.com/s/dprw9ndiaminntl/Mod_Pass2|
+  File làm BigGame "Mai mai Audition"|https://dl.dropboxusercontent.com/s/3au8fe9rkhc1ta0/Mod_BG_MMAudition|
+  Fix lỗi sai phiên bản khi cập nhật|https://dl.dropboxusercontent.com/s/opp4epk9t8meo9r/FixVer|
   Patch Một-Hai 8 phím|Không còn khả dụng</OtherMod>
   <linkFPS>https://goo.gl/BM3Xg1|https://goo.gl/rmXsH8|https://goo.gl/wODs3g|https://goo.gl/cBTtya</linkFPS>
 </GardenTimer>
