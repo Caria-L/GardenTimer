@@ -9,7 +9,7 @@
   <shutdown>-Shutdown</shutdown>
   <strPass>P.</strPass>
   <serial>-ALL|1ABD075|31/12/20 23:59</serial>
-  <costs>0|44|40|36|32|30|28|26|24</costs>
+  <costs>0|40|30|26|22|20|19|18|17</costs>
   <newsver>
 v1.9.10.2 (MD5: B3D8B39E02200BF31379DBFE2B147769)
 - Sửa lại định dạng ngày giờ cho các máy đã đăng ký
