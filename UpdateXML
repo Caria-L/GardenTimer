@@ -8,14 +8,11 @@
   <urlTS>https://goo.gl/hjwZ5N</urlTS>
   <shutdown>-Shutdown</shutdown>
   <strPass>Pp.</strPass>
-  <serial>-ALL|1ABD075|31/12/20 23:59|C3B3400|27/07/17 14:00</serial>
-  <costs>0|40|30|26|22|20|19|18|17</costs>
+  <serial>-ALL</serial>
+  <costs>0|00|00|00|22|20|20|20|20</costs>
   <newsver>
 v1.9.10.2 (MD5: B3D8B39E02200BF31379DBFE2B147769)
-- Sửa lại định dạng ngày giờ cho các máy đã đăng ký
-- Thêm GT-Mini
-- Thêm tính năng trong hẹn giờ
-- Một vài thay đổi nhỏ
+- ĐÂY LÀ PHIÊN BẢN CUỐI CÙNG
   </newsver>
   <tintuc>Shop mua sắm giá rẻ: VIPSHOP|http://au.vtcgame.vn/vipshop|
   Shop mua sắm giá rẻ: Auboutique|http://au.vtcgame.vn/auboutique|
