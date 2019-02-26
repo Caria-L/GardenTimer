@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GardenTimer>
   <version>1.9.10.2</version>
-  <news>Xin chào các bạn, GardenTimer hiện chỉ còn duy nhất 2 dịch vụ là bug đồ vĩnh viễn trong vườn (bao gồm Nền vườn, One touch, One/Chuột), và dịch vụ chăm tim KVTY.
+  <news>Xin chào các bạn, GardenTimer hiện chỉ còn duy nhất 2 dịch vụ là bug đồ vĩnh viễn (bao gồm Baby, Nền vườn, One touch, Ong/Chuột), và dịch vụ chăm tim KVTY.
   </news>
   <url>https://goo.gl/uX3xIq</url>
   <urlUpdater>https://goo.gl/siekoe</urlUpdater>
@@ -9,7 +9,7 @@
   <shutdown>-Shutdown</shutdown>
   <strPass>Pp.</strPass>
   <serial>ALL</serial>
-  <costs>0|00|00|00|15|13|13|13|13</costs>
+  <costs>0|00|00|00|15|12|12|12|12</costs>
   <newsver>
 v1.9.10.2 (MD5: B3D8B39E02200BF31379DBFE2B147769)
 - ĐÂY LÀ PHIÊN BẢN CUỐI CÙNG
